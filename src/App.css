@@ -1,3 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #373B44, #4286f4);
+}
+
+#colorlib-aside {
+  background: linear-gradient(to bottom, #373B44, #4286f4);
+}
+
 .App {
   text-align: center;
 }
@@ -9,4 +24,17 @@
   bottom: 0;
   left: 0;
   z-index: -1;
+}
+
+/* Sidebar */
+.fab {
+  font-size: 38px;
+}
+
+.sep {
+  font-size: 18px;
+}
+
+button {
+  cursor: pointer;
 }

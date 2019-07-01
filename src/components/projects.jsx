@@ -39,7 +39,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://reizinho-netflix.herokuapp.com">Copy NETFLIX Landing Page</a></h3>
+											<h3><a href="https://pauloreizinho-netflix.netlify.com/">Copy NETFLIX Landing Page</a></h3>
 											<span>Website</span>
 											<p className="icon">
 											</p>
@@ -48,15 +48,12 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-4.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="https://pauloreizinho-flappybird.netlify.com">Flappy Bird</a></h3>
+											<span>Game</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
 										</div>
 									</div>
@@ -95,7 +92,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Fly up <i className="fas fa-dove" /></a></p>
 							</div>
 						</div>
 					</div>

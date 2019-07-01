@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love<br /> CODE!!!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/lordrichard6" target="_blank" rel="noopener noreferrer">View Projects <i className="fas fa-briefcase" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/lordrichard6?tab=repositories" target="_blank" rel="noopener noreferrer">View Projects <i className="fas fa-briefcase" /></a></p>
                         </div>
                       </div>
                     </div>

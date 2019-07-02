@@ -18,7 +18,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://reizinho-face-detect-app.herokuapp.com">Face Detection API</a></h3>
-											<span>Web App</span>	
+											<span>React App</span>	
 										</div>
 									</div>
 								</div>
@@ -28,7 +28,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://reizinho-robofriends.herokuapp.com">RoboFriends</a></h3>
-											<span>Web App</span>
+											<span>React App</span>
 											<p className="icon">
 											</p>
 										</div>
@@ -52,7 +52,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://pauloreizinho-flappybird.netlify.com">Flappy Bird</a></h3>
-											<span>Game</span>
+											<span>JavaScript Game</span>
 											<p className="icon">
 											</p>
 										</div>
@@ -60,15 +60,12 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-5.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="https://pauloreizinho-calculator.netlify.com">calculator</a></h3>
+											<span>JavaScript App</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
 										</div>
 									</div>
@@ -78,12 +75,9 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="https://www.pauloreizinho.com/">Last Portfolio</a></h3>
+											<span>Website</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
 										</div>
 									</div>

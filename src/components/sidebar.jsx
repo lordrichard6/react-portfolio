@@ -9,7 +9,7 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Paulo Lopes</a></h1>
+              <h1 id="colorlib-logo"><a href="index.html">Paulo Lopes Reizinho</a></h1>
               <span className="email"><i className="fas fa-at"></i> paulolopesreizinho@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -25,10 +25,10 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul className="">
-                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter" /></a></li>
-                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram" /></a></li>
-                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" /></a></li>
-                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a></li>
+                <li><a href="https://twitter.com/PauloReizinho1" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter" /></a></li>
+                <li><a href="https://www.instagram.com/reizinho_pt/" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/paulo-reizinho-a2648b182/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" /></a></li>
+                <li><a href="https://github.com/lordrichard6" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">

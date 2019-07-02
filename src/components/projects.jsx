@@ -75,7 +75,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://www.pauloreizinho.com/">Last Portfolio</a></h3>
+											<h3><a href="https://pauloreizinho-portfolio2.netlify.com">Last Portfolio</a></h3>
 											<span>Website</span>
 											<p className="icon">
 											</p>

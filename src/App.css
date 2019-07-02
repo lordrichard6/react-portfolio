@@ -27,7 +27,10 @@ body {
 }
 
 /* Sidebar */
-.fab {
+.fa-twitter,
+.fa-instagram,
+.fa-linkedin,
+.fa-github {
   font-size: 30px;
 }
 

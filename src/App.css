@@ -4,17 +4,23 @@ body {
   font-family: "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
+  color: aliceblue;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(to right, #373B44, #4286f4);
 }
 
+.about-desc {
+color: aliceblue;
+}
+
 #colorlib-aside {
-  background: linear-gradient(to bottom, #373B44, #4286f4);
+  background:  #373B44;
 }
 
 .App {
   text-align: center;
+  color: aliceblue;
 }
 
 .particles {

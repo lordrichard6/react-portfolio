@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Particles from 'react-particles-js';
+// import Particles from 'react-particles-js';
 import Sidebar from './components/sidebar';
 import Introduction from './components/introduction';
 import About from './components/about';
 import Projects from './components/projects.jsx';
 import './App.css';
 
-const particlesOptions = {
+/* const particlesOptions = {
   "particles": {
     "number": {
       "value": 100,
@@ -111,16 +111,16 @@ const particlesOptions = {
   },
   "retina_detect": true
 }
-
+ */
 
 class App extends Component {
   render() {
     return (
     <div id="colorlib-page" className="App">
-      <Particles 
+      {/* <Particles 
           className='particles' 
-          params={particlesOptions} />
-          <div id="container-wrap">
+          params={particlesOptions} /> */}
+          <div id="container-wrap"> 
          	  <Sidebar />
 				      <div id="colorlib-main">
 					      <Introduction />

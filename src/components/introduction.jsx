@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Olá! <br />I'm Paulo</h1>
-                          <p><a className="btn btn-primary btn-learn" href="" target="_blank" rel="noopener noreferrer">View CV</a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://reizinhocv.netlify.com/" target="_blank" rel="noopener noreferrer">View CV</a></p>
                         </div>
                       </div>
                     </div>

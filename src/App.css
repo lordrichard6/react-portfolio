@@ -7,7 +7,12 @@ body {
   color: aliceblue;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to right, #373B44, #4286f4);
+  background: linear-gradient(to right, #373B44 20%, #1565C0);
+}
+@media screen and (max-width: 768px) {
+  body {
+    background: #1565C0;
+  }
 }
 
 .about-desc {

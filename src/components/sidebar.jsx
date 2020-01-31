@@ -9,8 +9,7 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Paulo Lopes<br/> Reizinho</a></h1>
-              <span className="email"><i className="fas fa-at"></i> paulolopesreizinho@gmail.com</span>
+              <h1 id="colorlib-logo"><a href="index.html">Paulo R Lopes<br/> Reizinho</a></h1>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -39,6 +38,7 @@ export default class Sidebar extends Component {
               <p><small>
                 Feel free to contact me, even for a <i className="fas fa-beer" aria-hidden="true" />.
               </small></p>
+              <span className="email"><i className="fas fa-at"></i> paulolopesreizinho@gmail.com</span>
             </div>
           </aside>
         </div>

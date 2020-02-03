@@ -13,12 +13,12 @@ export default class About extends Component {
                                 <div className="about-desc">
                                     <span className="heading-meta">About Me</span>
                                     <h2 className="colorlib-heading">Who Am I?</h2>
-                                    <p>Hello, my name is Paulo i came from a small town in Portugal but now my <i class="fas fa-home" /> in Zurich and i became a self thought Full-Stack Developer,</p>
-                                    <p>learned the basics of <i class="fab fa-html5" /> and <i class="fab fa-css3-alt"/> with Responsive Design, got the basics of <i class="fab fa-js-square" /> and find it fascinating, learned the JS library <i class="fab fa-react"/>,</p> 
-                                    <p>i am pretty comfortable with git version control system and create and maintain databases with PostgresSQL.</p>  
+                                    <p>Hello, my name is Paulo i came from a small town in Portugal but now my <i class="fas fa-home" /> in Zurich and i am a self thought Developer more specialized in the Front-end but with a bit of understanding of the Back-end.</p>
+                                    <p>I have an Adminitration background but my motivation and love are with programing.</p>
+                                    <p>Learned the basics of <i class="fab fa-html5" /> and <i class="fab fa-css3-alt"/> bootstrap and flexbox, got the basics of <i class="fab fa-js-square" />, i studied <i class="fab fa-react"/> with Redux,</p> 
                                     <p>If you are interested in hiring someone that works 200% to make your <i class="far fa-lightbulb"/> true, someone with the hunger to grow and learn,</p> 
                                     <p>then i am happy to be part of the <i class="fas fa-users"/> and make the diference. </p>
-                                    <p className=''>I willing to work my <i class="fab fa-sass"/> off to see your need attended{/*  and my ambition fulfilled */}.</p>
+                                    <p>I willing to work my <i class="fab fa-sass"/> off to see your need attended{/*  and my ambition fulfilled */}.</p>
                                 </div>
                             </div>
                         </div>
@@ -31,7 +31,7 @@ export default class About extends Component {
                 <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                         <span className="heading-meta">What can I do?</span>
-                        <h2 className="colorlib-heading">Here are some of my abilities</h2>
+                        <h2 className="colorlib-heading">Combat skills</h2>
                     </div>
                 </div>
                 <div className="row row-pt-md">
@@ -42,7 +42,7 @@ export default class About extends Component {
                             </span>
                             <div className="desc">
                                 <h3>Front-end</h3>
-                                <p>I learn HTML, CSS with responsive design, JavaScript with React and what i don't know i WILL learn.</p>
+                                <p>HTML, CSS with Sass and Bootstrap, JavaScript with React.js and Redux.</p>
                             </div>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ export default class About extends Component {
                             </span>
                             <div className="desc">
                                 <h3>Back-end</h3>
-                                <p>I create a server with Node and Express with a relational database design through PostgresSQL</p>
+                                <p>Node.js and Express, Python and Django</p>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ export default class About extends Component {
                             </span>
                             <div className="desc">
                                 <h3>Other Skills</h3>
-                                <p>I know git + github version control system, i have understand in pc hardware building, photoshop and video edition software.</p>
+                                <p>Fluent in english writen and spoken, B1 of German, team player and well self organized.</p>
                             </div>
                         </div>
                     </div> 

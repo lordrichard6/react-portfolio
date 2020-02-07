@@ -28,7 +28,7 @@ export default class Projects extends Component {
 					<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 						<div className="project" style={{backgroundImage: 'url(images/img-2.png)'}}>
 							<div className="desc">
-								<a href="https://reizinho-robofriends.herokuapp.com">
+								<a href="https://lordrichard6.github.io/robofriends/">
 									<div className="con">
 										<h3>RoboFriends</h3>
 										<span>React App</span>

@@ -96,11 +96,11 @@ export default class Projects extends Component {
 						</div>
 					</div>
 				</div>
-				<div className="row">
+				{/* <div className="row">
 					<div className="col-md-12 animate-box">
 						<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Fly up <i className="fas fa-dove" /></a></p>
 					</div>
-				</div>
+				</div> */}
 			</div>
 		</section>
       </div>
